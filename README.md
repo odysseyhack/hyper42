@@ -1,4 +1,4 @@
-there is an other repo for this team [here](https://github.com/EBPI/Hyper42-Hackathon2019)
+the original repo for this team [here](https://github.com/EBPI/Hyper42-Hackathon2019)
 
 # Hyper42 Odyssey 2019 Git Repo
 
